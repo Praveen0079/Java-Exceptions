@@ -6,7 +6,7 @@ public class FileReaderExam{
     public static void main(String[] args) {
         String fileName = "info.txt";
 
-        // Try-with-resources to automatically close BufferedReader
+        // Try-with-resources to automatically close BufferedReader 
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(fileName))) {
             // Read and print the first line of the file
             String firstLine = bufferedReader.readLine();

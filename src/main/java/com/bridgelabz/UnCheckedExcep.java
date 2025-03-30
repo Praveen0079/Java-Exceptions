@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class UnCheckedExcep {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         try {
             System.out.print("Enter the first number: ");
             int num1 = scanner.nextInt();

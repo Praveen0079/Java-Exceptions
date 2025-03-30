@@ -9,7 +9,7 @@ public class UnCheckedExcep {
         try {
             System.out.print("Enter the first number: ");
             int num1 = scanner.nextInt();
-
+ 
             System.out.print("Enter the second number: ");
             int num2 = scanner.nextInt();
 

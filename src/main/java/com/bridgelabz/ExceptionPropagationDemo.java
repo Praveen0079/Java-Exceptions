@@ -1,4 +1,4 @@
-package com.bridgelabz;
+ package com.bridgelabz;
 
 public class ExceptionPropagationDemo {
     // Method that throws an ArithmeticException

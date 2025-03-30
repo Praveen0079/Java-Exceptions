@@ -7,7 +7,7 @@ public class DivisionDemo {
         Scanner sc = new Scanner(System.in);
 
         try {
-            // Accept user input
+            // Accept user input 
             System.out.print("Enter the numerator: ");
             int numerator = sc.nextInt();
 

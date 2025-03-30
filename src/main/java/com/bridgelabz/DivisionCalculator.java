@@ -9,7 +9,7 @@ public class DivisionCalculator {
 
         try {
             // Prompt user for two numbers
-            System.out.print("Enter the numerator: ");
+            System.out.print("Enter the numerator: "); 
             int numerator = sc.nextInt();
 
             System.out.print("Enter the denominator: ");
